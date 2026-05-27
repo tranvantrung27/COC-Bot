@@ -1,6 +1,9 @@
 {
   "version": "1.2",
   "download_url": "https://drive.google.com/drive/folders/14CtwnEC7wEpgHRX2InZ2-lAg-563ETYq?usp=sharing",
-  "changelog_vi": "- Fix lỗi không về được Home sau trận\n- Lính sự kiện thả nhanh hơn",
-  "changelog_en": "- Fix return home bug after battle\n- Event troops deploy faster"
+  "changelog_vi": "- FIX 1 số lỗi về vấn đề giả lập",
+  "changelog_en": "- Fix return home bug after battle\n- Event troops deploy faster",
+  "notice_id": "2026-05-27_1343",
+  "notice_vi": "Xin lỗi anh em về trải nghiệm không tốt và lỗi của tool\nMinh sẽ cố gắng hoàn thiện cho anh em",
+  "notice_en": ""
 }
