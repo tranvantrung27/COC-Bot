@@ -1,7 +1,7 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "download_url": "https://drive.google.com/drive/folders/14CtwnEC7wEpgHRX2InZ2-lAg-563ETYq?usp=sharing",
-  "changelog_vi": "- FIX 1 số lỗi về vấn đề giả lập",
+  "changelog_vi": "- FIX lỗi nâng tường ,Đập quà sự kiện,Thêm combo rồng điện (E_dragon)",
   "changelog_en": "- Fixed several emulator-related bugs.",
   "notice_id": "2026-05-27_1343",
   "notice_vi": "Xin lỗi anh em về trải nghiệm không tốt và lỗi của tool\nMinh sẽ cố gắng hoàn thiện cho anh em\nƯu tiên dùng LDPlayer ổn định hơn",
