@@ -1,9 +1,9 @@
 {
   "version": "1.4",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v1.4/COC.Auto.Farm.zip",
-  "changelog_vi": "- FIX lỗi nâng tường ,Đập quà sự kiện,Thêm combo rồng điện (E_dragon)\n- Bản cũ đang ổn định thì cứ để xài",
-  "changelog_en": "- Fixed several emulator-related bugs.",
+  "changelog_vi": "- FIX lỗi nâng tường ,Đập quà sự kiện,Thêm combo rồng điện (E_dragon)",
+  "changelog_en": "- Fixed wall upgrade bug, opening event gifts, added Electro Dragon (E_dragon) combo",
   "notice_id": "2026-05-27_1343",
   "notice_vi": "Xin lỗi anh em về trải nghiệm không tốt và lỗi của tool\nMinh sẽ cố gắng hoàn thiện cho anh em\nƯu tiên dùng LDPlayer ổn định hơn",
-  "notice_en": ""
+  "notice_en": "Sorry everyone for the bad experience and tool bugs\nI will try my best to improve it for you guys\nHighly recommend using LDPlayer for better stability"
 }
