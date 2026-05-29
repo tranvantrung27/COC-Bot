@@ -1,9 +1,9 @@
 {
-  "version": "1.4",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v1.4/COC.Auto.Farm.zip",
-  "changelog_vi": "- FIX lỗi nâng tường ,Đập quà sự kiện,Thêm combo rồng điện (E_dragon)",
-  "changelog_en": "- Fixed wall upgrade bug, opening event gifts, added Electro Dragon (E_dragon) combo",
-  "notice_id": "2026-05-27_1343",
-  "notice_vi": "Xin lỗi anh em về trải nghiệm không tốt và lỗi của tool\nMinh sẽ cố gắng hoàn thiện cho anh em\nƯu tiên dùng LDPlayer ổn định hơn",
-  "notice_en": "Sorry everyone for the bad experience and tool bugs\nI will try my best to improve it for you guys\nHighly recommend using LDPlayer for better stability"
+  "version": "1.4.1",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v1.4.1/COC.Auto.Farm.zip",
+  "changelog_vi": "- Thêm tính năng nâng nhiều tường thông minh",
+  "changelog_en": "- Added smart multi-wall upgrade",
+  "notice_id": "2026-05-29_1853",
+  "notice_vi": "Phiên bản v1.4.1 đã ra mắt!\nNâng cấp tường thông minh hơn - bot tự nhận diện màu đỏ để điều chỉnh số tường phù hợp với tài nguyên bạn có.\nƯu tiên dùng LDPlayer 9 để ổn định nhất nhé!",
+  "notice_en": "v1.4.1 is now live!\nSmartest wall upgrading yet - bot detects red cost text to auto-adjust wall count to fit your resources.\nHighly recommend LDPlayer 9 for best stability!"
 }
