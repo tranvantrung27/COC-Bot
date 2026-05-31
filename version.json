@@ -2,8 +2,5 @@
   "version": "1.4.1",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v1.4.1/COC.Auto.Farm.zip",
   "changelog_vi": "- Thêm tính năng nâng nhiều tường",
-  "changelog_en": "- Added smart multi-wall upgrade",
-  "notice_id": "2026-05-29_1853",
-  "notice_vi": "Phiên bản v1.4.1 đã ra mắt!\nNâng cấp tường thông minh hơn \nƯu tiên dùng LDPlayer 9 để ổn định nhất nhé!",
-  "notice_en": "v1.4.1 is now live!\nSmartest wall upgrading yet \nHighly recommend LDPlayer 9 for best stability!"
+  "changelog_en": "- Added smart multi-wall upgrade"
 }
