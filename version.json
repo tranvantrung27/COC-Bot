@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v1.4.2/COC.Auto.Farm.zip",
-  "changelog_vi": "- Thay đổi thời gian thả lính kích hoạt tướng nhanh hơn\n- Bảng tổng kết rõ ràng sau mỗi trận để nắm bắt được mỗi trận bot ăn được bao nhiêu tài nguyên",
-  "changelog_en": "- Adjusted troop deployment timing for faster hero activation\n- Added a clear post-match summary to track the amount of resources farmed by the bot per attack"
+  "version": "1.5",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v1.5/COC.Auto.Farm.zip",
+  "changelog_vi": "🏗️ Chế độ Căn Cứ Thợ Xây chính thức ra mắt!\n- Tự động đánh & nâng tường ở Căn Cứ Thợ Xây",
+  "changelog_en": "🏗️ Builder Base mode is now available!\n- Auto-attack & wall upgrades in Builder Base"
 }
