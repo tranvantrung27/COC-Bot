@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.0/COC.Auto.Farm.zip",
-  "changelog_vi": "Giao diện mới hoàn toàn cho anh em và cùng 1 số tính năng\n- Fix 1 số lỗi như nâng tường, thả lính\n- Anh em xài mà vẫn có lỗi báo ngay nha",
-  "changelog_en": "All-new interface and several new features\n- Fix some bugs like wall upgrades, troop deployment\n- Please report any issues immediately!"
+  "version": "2.1",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.1/COC.Auto.Farm.zip",
+  "changelog_vi": "-Fix 1 số lỗi bên căn cứ thợ xây. Mong bản này ổn định\n- AE test xem thế nào.",
+  "changelog_en": "-Fixed some bugs in the builder base. Hopefully this version is stable.\n- Please test it out and let me know how it works."
 }
