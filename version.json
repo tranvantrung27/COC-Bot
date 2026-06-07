@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.1.1/COC.Auto.Farm.zip",
-  "changelog_vi": "- Fix lỗi\n- Thêm tính năng tạo lính tự động theo combo bạn chọn ở làng đêm\n- Ví dụ: trước đó bạn chơi là lính khác nhưng bạn lười tạo lại theo combo thì giờ tool sẽ tự làm hết cho bạn",
-  "changelog_en": "- Fixed bugs\n- Added automatic troop training based on your selected combo in the Builder Base\n- Example: If you previously used different troops and don't want to manually recreate your combo, the tool will now do it all for you"
+  "version": "2.1.2",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.1.2/COC.Auto.Farm.zip",
+  "changelog_vi": "- Fix lỗi chạy ổn định hơn\n- Các bác thử bản này xem ok không nhá",
+  "changelog_en": "- Fixed bugs and improved stability.\n- Added automatic troop training based on your selected combo in the Builder Base.\n- Note: If you previously used a different army composition and don't want to manually recreate your combo, the bot will now handle everything for you."
 }
