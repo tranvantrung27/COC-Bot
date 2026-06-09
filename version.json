@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.1.2/COC.Auto.Farm.zip",
-  "changelog_vi": "- Fix lỗi chạy ổn định hơn\n- Các bác thử bản này xem ok không nhá",
-  "changelog_en": "- Fixed bugs and improved stability.\n- Added automatic troop training based on your selected combo in the Builder Base.\n- Note: If you previously used a different army composition and don't want to manually recreate your combo, the bot will now handle everything for you."
+  "version": "2.1.3",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.1.3/COC.Auto.Farm.zip",
+  "changelog_vi": "- Sửa lỗi không thả được rồng ở ô đầu tiên thanh lính\n- Sửa lỗi cuộn tìm mục nâng Tường ở Làng chính & Làng phụ",
+  "changelog_en": "- Fix dragon/troop deployment in the first slot of army bar\n- Fix wall upgrade scrolling issues in both villages"
 }
