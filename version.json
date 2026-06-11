@@ -1,6 +1,6 @@
 {
   "version": "2.3.0",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.0/COC.Auto.Farm.zip",
-  "changelog_vi": "- Tích hợp mô hình AI siêu nhẹ nhận diện mỏ tài nguyên thời gian thực.\n- Tối ưu hóa thuật toán thả Siêu Goblin (Sneaky Goblin) giúp vét sạch tài nguyên từ các mỏ sâu trong nhà địch.\n- Tự động quét và phát hiện các mỏ chưa bị phá hủy trước khi thả Goblin để tối ưu lượng quân.\n- Sửa lỗi thứ tự thả Spell trước Goblin và cải thiện độ ổn định của hệ thống.",
-  "changelog_en": "- Integrate a lightweight AI model for real-time resource collector scanning.\n- Optimize Sneaky Goblin deployment algorithm to loot deep resources inside enemy bases.\n- Automatically scan and detect surviving collectors before Goblins drop to optimize troop deployment.\n- Fix Spell casting order before Goblins and improve overall system stability."
+  "changelog_vi": "- Tích hợp mô hình AI siêu nhẹ nhận diện mỏ tài nguyên thời gian thực.\n- Tối ưu hóa thuật toán thả Siêu Goblin (Sneaky Goblin) giúp vét sạch tài nguyên từ các mỏ ở đường khác mà chưa đánh tới.",
+  "changelog_en": "- Integrate a lightweight AI model for real-time resource collector scanning.\n- Optimize Sneaky Goblin deployment algorithm to loot deep resources inside enemy bases."
 }
