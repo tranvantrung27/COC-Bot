@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.0/COC.Auto.Farm.zip",
-  "changelog_vi": "- Tích hợp mô hình AI siêu nhẹ nhận diện mỏ tài nguyên thời gian thực.\n- Tối ưu hóa thuật toán thả Siêu Goblin (Sneaky Goblin) giúp vét sạch tài nguyên từ các mỏ ở đường khác mà chưa đánh tới.",
-  "changelog_en": "- Integrate a lightweight AI model for real-time resource collector scanning.\n- Optimize Sneaky Goblin deployment algorithm to loot deep resources inside enemy bases."
+  "version": "2.3.1",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.1/COC.Auto.Farm.zip",
+  "changelog_vi": "- Cập nhật có thể bật tắt chế độ AI tránh máy yếu lag (Bản AI này mình đã tối ưu cực nhẹ nếu máy k nổi thì ae có thể tắt)\n- Fix lỗi treo lag giả lập mình thêm cơ chế giải phóng để anh em treo 24/7 k ảnh hưởng gì\n- AE update xem sao nhá",
+  "changelog_en": "- Added an option to toggle AI mode to prevent lag on lower-end machines.\n- Fixed emulator freeze/lag issues by implementing a smart memory release mechanism for stable 24/7 runs.\n- Please update and give it a try!"
 }
