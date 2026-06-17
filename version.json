@@ -1,6 +1,6 @@
 {
-  "version": "2.3.2",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.2/COC.Auto.Farm.zip",
-  "changelog_vi": "- Sửa 1 số lỗi\n- Cài đặt nâng cao ở tab chiến thuật anh em có thể tự tùy chỉnh tốc độ hoặc có thể để mặc định nếu ổn",
-  "changelog_en": "- Fixed various bugs.\n- Added advanced settings to the Tactics tab, allowing you to customize the speed or keep it at default if it runs smoothly."
+  "version": "2.3.3",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.3/COC.Auto.Farm.zip",
+  "changelog_vi": "- Tối ưu thao tác.",
+  "changelog_en": "- Operational optimization."
 }
