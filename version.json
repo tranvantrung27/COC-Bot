@@ -1,6 +1,6 @@
 {
-  "version": "2.3.3",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.3/COC.Auto.Farm.zip",
-  "changelog_vi": "- Tối ưu thao tác.",
-  "changelog_en": "- Operational optimization."
+  "version": "2.3.4",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.3.4/COC.Auto.Farm.zip",
+  "changelog_vi": "- Thêm tính năng tự động vào lại game khi game bị văng hoặc giả lập bị treo.",
+  "changelog_en": "- Added auto-restart feature when the game crashes or the emulator freezes."
 }
