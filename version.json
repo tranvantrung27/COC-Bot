@@ -1,6 +1,6 @@
 {
   "version": "2.4.2",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.4.2/COC.Auto.Farm.zip",
-  "changelog_vi": "Nâng cấp nhỏ\n- Fix lỗi",
+  "changelog_vi": "Nâng cấp nhỏ\n- Fix lỗi \n- Nếu gặp lỗi '_PYI_APPLICATION_HOME_DIR', anh em chỉ cần XÓA thư mục '_internal' cũ đi là xong nhé!",
   "changelog_en": "Minor upgrade\n- Bug fixes"
 }
