@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.4.1/COC.Auto.Farm.zip",
-  "changelog_vi": "Fix lỗi nhỏ\n- Thêm tăng tốc x4 cuối trận đấu\n- Tự động khởi động lại game khi lỗi (Đang thử nghiệm)",
-  "changelog_en": "Minor bug fixes\n- Added x4 speed-up during battle\n- Auto-restart game on error (Beta)"
+  "version": "2.4.2",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.4.2/COC.Auto.Farm.zip",
+  "changelog_vi": "Nâng cấp nhỏ\n- Fix lỗi",
+  "changelog_en": "Minor upgrade\n- Bug fixes"
 }
