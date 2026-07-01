@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.4.3/COC.Auto.Farm.zip",
   "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Tính năng mới: Tự động xin lính clan\n\n🔧 <b style='color:#fbbf24;'>Sửa lỗi & Tối ưu:</b>\n- Khắc phục các lỗi để tool hoạt động ổn định",
   "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- New feature: Auto request clan troops\n\n🔧 <b style='color:#fbbf24;'>Bug Fixes & Optimizations:</b>\n- Fix bugs to make the tool run stably"
