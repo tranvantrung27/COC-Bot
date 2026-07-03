@@ -1,5 +1,5 @@
 {
-  "version": "2.4.5",
+  "version": "2.4.4",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.4.5/COC.Auto.Farm.zip",
   "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Tối ưu hóa tốc độ khởi động\n- Nếu cập nhật xong báo lỗi anh em cứ bấm ok rồi vào lại là được nhé\n🐞 <b style='color:#fbbf24;'>Sửa lỗi:</b>\n- Sửa lỗi xác thực bản quyền",
   "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- Optimized startup speed\n\n🐞 <b style='color:#fbbf24;'>Bug Fixes:</b>\n- Fixed authentication issues"
