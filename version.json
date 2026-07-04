@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
+  "version": "2.5.0",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.5.0/COC.Auto.Farm.zip",
-  "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Hỗ trợ tự động đổi nhiều tài khoản (Supercell ID) khi treo\n- Chuẩn bị tính năng Thả spell thông minh (Đang phát triển)\n🐞 <b style='color:#fbbf24;'>Sửa lỗi:</b>\n- Sửa các lỗi nhỏ đang dính",
-  "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- Added automatic multi-account rotation (Supercell ID)\n- Prepared Smart Spell Deployment feature (Under development)\n- Optimized screen scanning performance\n\n🐞 <b style='color:#fbbf24;'>Bug Fixes:</b>\n- Fixed AI model loading issues in compiled EXE\n- Fixed account template path mismatch in compiled EXE"
+  "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Hỗ trợ tự động đổi nhiều tài khoản (Supercell ID) khi treo\n- Chuẩn bị tính năng Thả spell thông minh (Đang phát triển)\n🐞 <b style='color:#fbbf24;'>Sửa lỗi:</b>\n- Sửa các lỗi nhỏ đang dính\n⚠️ <b style='color:#ef4444;'>LƯU Ý RIÊNG BẢN 2.4.5:</b> Do bản 2.4.5 cũ bị lỗi tự động restart, anh em đang chạy bản 2.4.5 vui lòng tải file zip v2.5.0 về giải nén đè thủ công nhé! Các bản cũ hơn vẫn cập nhật tự động bình thường.",
+  "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- Added automatic multi-account rotation (Supercell ID)\n- Prepared Smart Spell Deployment feature (Under development)\n- Optimized screen scanning performance\n\n🐞 <b style='color:#fbbf24;'>Bug Fixes:</b>\n- Fixed AI model loading issues in compiled EXE\n- Fixed account template path mismatch in compiled EXE\n⚠️ <b style='color:#ef4444;'>NOTICE FOR v2.4.5 USERS:</b> Due to a restart bug in v2.4.5, please download and extract the v2.5.0 ZIP manually. Other versions can update automatically."
 }
