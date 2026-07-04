@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
+  "version": "2.4.0",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.5.0/COC.Auto.Farm.zip",
   "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Hỗ trợ tự động đổi nhiều tài khoản (Supercell ID) khi treo\n- Chuẩn bị tính năng Thả spell thông minh (Đang phát triển)\n🐞 <b style='color:#fbbf24;'>Sửa lỗi:</b>\n- Sửa các lỗi nhỏ đang dính",
   "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- Added automatic multi-account rotation (Supercell ID)\n- Prepared Smart Spell Deployment feature (Under development)\n- Optimized screen scanning performance\n\n🐞 <b style='color:#fbbf24;'>Bug Fixes:</b>\n- Fixed AI model loading issues in compiled EXE\n- Fixed account template path mismatch in compiled EXE"
