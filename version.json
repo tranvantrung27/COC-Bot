@@ -1,6 +1,6 @@
 {
-  "version": "2.5.2",
-  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.5.2/COC.Auto.Farm.zip",
-  "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Cập nhật nhiệm vụ cho Trò Chơi Hội \n🐞 <b style='color:#fbbf24;'>Sửa lỗi:</b>\n- Sửa các lỗi nhỏ",
-  "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- Updated Clan Games quests & tasks\n🐞 <b style='color:#fbbf24;'>Bug Fixes:</b>\n- Fixed minor bugs"
+  "version": "2.5.3",
+  "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.5.3/COC.Auto.Farm.zip",
+  "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- Tối ưu tốc độ tool & tìm trận siêu tốc\n- Dễ dàng nhận biết & chuyển đổi nhiều giả lập mượt mà\n🐞 <b style='color:#fbbf24;'>Sửa lỗi:</b>\n- Sửa các lỗi nhỏ",
+  "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- Optimized tool performance & lightning match search\n- Enhanced multi-emulator auto-identification & smooth switcher\n🐞 <b style='color:#fbbf24;'>Bug Fixes:</b>\n- Fixed minor bugs"
 }
