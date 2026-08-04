@@ -1,10 +1,14 @@
-{
-  "notice_id": "2026-06-30_02",
-  "notice_vi": "Chào mừng anh em đến với CocFarm, chúc anh em có trải nghiệm tool mượt mà và hiệu quả!",
-  "notice_en": "Welcome to CocFarm! Wish you a smooth and efficient tool experience!"
-}
-{
-  "notice_id": "2026-08-05_0017",
-  "notice_vi": "Mình sẽ cập nhật nhiều phiên bản sắp tới cho việc tự động hóa cho anh em treo tool nhàn hơn,.. Cảm ơn anh em đã ủng hộ",
-  "notice_en": "Upcoming updates will bring more automation features to make tool management effortless for everyone. Thanks for sticking with us!"
-}
+[
+  {
+    "notice_id": "2026-08-05_0017",
+    "date": "05/08/2026",
+    "notice_vi": "Mình sẽ cập nhật nhiều phiên bản sắp tới cho việc tự động hóa cho anh em treo tool nhàn hơn,.. Cảm ơn anh em đã ủng hộ",
+    "notice_en": "Upcoming updates will bring more automation features to make tool management effortless for everyone. Thanks for sticking with us!"
+  },
+  {
+    "notice_id": "2026-06-30_02",
+    "date": "30/06/2026",
+    "notice_vi": "Chào mừng anh em đến với CocFarm, chúc anh em có trải nghiệm tool mượt mà và hiệu quả!",
+    "notice_en": "Welcome to CocFarm! Wish you a smooth and efficient tool experience!"
+  }
+]
