@@ -1,5 +1,5 @@
 {
-  "version": "2.5.5",
+  "version": "2.5.4",
   "download_url": "https://github.com/tranvantrung27/COC-Bot/releases/download/v2.5.5/COC.Auto.Farm.zip",
   "changelog_vi": "⭐ <b style='color:#fbbf24;'>Có gì mới:</b>\n- <b>👤 Auto-Profile & Ghi nhớ Cấu hình</b>: Tự động nhận diện tên nick & ghi nhớ cài đặt riêng cho từng tài khoản, tránh mất công setting lại nhiều lần.\n- <b>🚀 Tối ưu nhận diện OCR trên EXE</b>: Sửa lỗi nạp module OCR trên bản đóng gói .exe, giúp quét tên nick mượt mà và chuẩn xác.\n⚠️ <b style='color:#fbbf24;'>Lưu ý quan trọng:</b>\n- Với nick có ký tự đặc biệt, tên do bot quét được có thể sai 1 số ký tự. Anh em vui lòng <b>giữ nguyên tên do bot tự động nhận diện</b> (không tự ý sửa/đổi tên file profile) để tránh phát sinh lỗi vận hành.",
   "changelog_en": "⭐ <b style='color:#fbbf24;'>What's New:</b>\n- <b>👤 Auto-Profile & Account Settings</b>: Automatically detects player names & remembers individual settings per account, avoiding repetitive configuration.\n- <b>🚀 RapidOCR EXE Optimization</b>: Fixed OCR module loading in EXE builds for smooth & accurate name recognition.\n⚠️ <b style='color:#fbbf24;'>Important Note:</b>\n- Player names with special characters may not be 100% exact. Please <b>keep the auto-detected account name as is</b> (do not rename profile files) to ensure smooth operation."
